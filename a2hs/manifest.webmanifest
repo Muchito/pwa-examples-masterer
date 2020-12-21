@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "get medical consultations online",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon/fox-icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "name": "naid afrik",
+  "short_name": "naid",
+ "start_url": "http://localhost/vrs5.1/HTML/",
+}
